@@ -1,5 +1,3 @@
--- Criação do Banco de Dados
-DROP DATABASE IF EXISTS oficina;
 CREATE DATABASE oficina;
 USE oficina;
 
